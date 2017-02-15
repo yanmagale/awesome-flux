@@ -1,20 +1,30 @@
 # Awesome Flux
-A curated list about Flux arquitechture and your implementations.
 
-This is a working in progress. Wait for next changes.
+> :clipboard: A curated list about Flux arquitechture and your implementations.
 
 
 # Motivation
 
 Motivation was born while creating my TCC and not found one place with all contents about this flux, principies, the differences with MVC, implementations and others. So, i decided create this list for share my studies and resources searched while working in my TCC
 
-# Links
+## Table of contents
 
+- [Official Resources](#official-resources)
+- [Flux Arquitechture](#flux-arquitecture)
+- [MV* Arquitechtures](#mv*-arquitectures)
+- [Flux Implementations](#mv*-implementations)
+- [Redux](#redux)
+- [Talks](#talks)
+- [Contribute](#contribute)
 
-## Flux
+<hr>
+
+## Official Resources
 
 - [Flux Documentation](https://facebook.github.io/flux/docs/overview.html)
 - [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw)
+
+## Flux Arquitechture
 - [React and Flux: Building Applications with a Unidirectional Data Flow](https://www.youtube.com/watch?v=i__969noyAM)
 - [The Case for Flux](https://medium.com/swlh/the-case-for-flux-379b7d1982c6#.rboxfy6j0)
 - [Evolving Yahoo Mail](https://yahooeng.tumblr.com/post/101682875656/evolving-yahoo-mail)
@@ -25,7 +35,7 @@ Motivation was born while creating my TCC and not found one place with all conte
 - [Flux: Entenda como funciona a arquitetura Flux com React](https://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/)
 
 
-## MVC, MVP, MVVP, MVW
+## MV* Arquitechtures
 
 - [MVVM / MVC is dead? Is Unidirectional a MVVM / MVC Killer?](http://www.michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/)
 - [Model-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
@@ -41,7 +51,7 @@ Motivation was born while creating my TCC and not found one place with all conte
 - [History of MVC, by Trygver (The MVC Creator)](http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html)
 
 
-## Flux implementations
+## Flux Implementations
 - [Flux Comparison](https://github.com/voronianski/flux-comparison)
 - [Flux solutions compared by example](http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example)
 
