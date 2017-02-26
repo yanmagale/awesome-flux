@@ -5,7 +5,7 @@
 
 # Motivation
 
-Motivation was born while creating my TCC and not found one place with all contents about this flux, principies, the differences with MVC, implementations and others. So, i decided create this list for share my studies and resources searched while working in my TCC
+Motivation was born while creating my TCC and not found one place with all contents about this flux, principies, the differences with MVC, implementations and others. So i decided create this list for share my studies and resources searched while working in my TCC(the document are avaiable [here](https://github.com/yanmagale/awesome-flux/tree/master/tcc.pdf) only PT-BR)
 
 ## Table of contents
 
