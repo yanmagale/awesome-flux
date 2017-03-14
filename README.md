@@ -57,6 +57,8 @@ Motivation was born while creating my TCC and not found one place with all conte
 
 
 ## Redux
+- [Hot reloading and time travel debugging: what are they?, by Lin Clark](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.qcter0lhs)
+- [A cartoon guide to Redux, by Lin Clark](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.cnkq5xn0a)
 - [Awesome Redux, by @brillout](https://github.com/brillout/awesome-redux)
 - [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)
 
@@ -64,6 +66,7 @@ Motivation was born while creating my TCC and not found one place with all conte
 # Talks
 
 - [Flux and React - Building Apllications with a Unidirectional Data Flow, by Bill Fisher](https://speakerdeck.com/fisherwebdev/fluxchat)
+- [Os Estados do Flux (only PT-BR), by Yan Magalhães](http://slides.com/yanmagale/os-estados-do-flux#/)
 
 
 
