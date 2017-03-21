@@ -1,11 +1,11 @@
 # Awesome Flux
 
-> :clipboard: A curated list about Flux arquitechture and your implementations.
+> :clipboard: A curated list about Flux's architecture and its implementations.
 
 
 # Motivation
 
-Motivation was born while creating my TCC and not found one place with all contents about this flux, principies, the differences with MVC, implementations and others. So i decided create this list for share my studies and resources searched while working in my TCC(the document are avaiable [here](https://github.com/yanmagale/awesome-flux/tree/master/tcc.pdf) only PT-BR)
+Motivation was born while I was writing my bachelor's thesis and couldn't find one place with all contents about Flux, its principles, the differences between MVC, implementations and others. So I decided to create this list to share my studies and resources that I found while working on my thesis (the document are avaiable in PT-BR [here](https://github.com/yanmagale/awesome-flux/tree/master/tcc.pdf) only PT-BR).
 
 ## Table of contents
 
