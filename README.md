@@ -10,10 +10,11 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 ## Table of contents
 
 - [Official Resources](#official-resources)
-- [Flux Arquitechture](#flux-arquitecture)
-- [MV* Arquitechtures](#mv*-arquitectures)
+- [Flux Architecture](#flux-architecture)
+- [MV* Architectures](#mv*-architectures)
 - [Flux Implementations](#mv*-implementations)
 - [Redux](#redux)
+- [MobX](#mobx)
 - [Talks](#talks)
 - [Contribute](#contribute)
 
@@ -24,7 +25,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [Flux Documentation](https://facebook.github.io/flux/docs/overview.html)
 - [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw)
 
-## Flux Arquitechture
+## Flux Architecture
 - [React and Flux: Building Applications with a Unidirectional Data Flow](https://www.youtube.com/watch?v=i__969noyAM)
 - [The Case for Flux](https://medium.com/swlh/the-case-for-flux-379b7d1982c6#.rboxfy6j0)
 - [Evolving Yahoo Mail](https://yahooeng.tumblr.com/post/101682875656/evolving-yahoo-mail)
@@ -35,7 +36,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [Flux: Entenda como funciona a arquitetura Flux com React](https://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/)
 
 
-## MV* Arquitechtures
+## MV* Architectures
 
 - [MVVM / MVC is dead? Is Unidirectional a MVVM / MVC Killer?](http://www.michaelridland.com/xamarin/mvvm-mvc-is-dead-is-unidirectional-a-mvvm-mvc-killer/)
 - [Model-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
@@ -62,10 +63,15 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [Awesome Redux, by @brillout](https://github.com/brillout/awesome-redux)
 - [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)
 
+## MobX
+- [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
+- [Becoming fully reactive: an in-depth explanation of MobX](https://medium.com/@mweststrate/becoming-fully-reactive-an-in-depth-explanation-of-mobservable-55995262a254#.dh6w3ape9)
+- [Awesome MobX](https://github.com/mobxjs/awesome-mobx)
+
 
 # Talks
 
-- [Flux and React - Building Apllications with a Unidirectional Data Flow, by Bill Fisher](https://speakerdeck.com/fisherwebdev/fluxchat)
+- [Flux and React - Building Applications with a Unidirectional Data Flow, by Bill Fisher](https://speakerdeck.com/fisherwebdev/fluxchat)
 - [Os Estados do Flux (only PT-BR), by Yan Magalhães](http://slides.com/yanmagale/os-estados-do-flux#/)
 
 
