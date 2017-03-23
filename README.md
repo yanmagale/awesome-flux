@@ -5,7 +5,7 @@
 
 # Motivation
 
-Motivation was born while I was writing my bachelor's thesis and couldn't find one place with all contents about Flux, its principles, the differences between MVC, implementations and others. So I decided to create this list to share my studies and resources that I found while working on my thesis (the document are avaiable in PT-BR [here](https://github.com/yanmagale/awesome-flux/tree/master/tcc.pdf) only PT-BR).
+Motivation was born while I was writing my bachelor's thesis and couldn't find one place with all contents about Flux, its principles, the differences between MVC, implementations and others. So I decided to create this list to share my studies and resources that I found while working on my thesis (the document are avaiable in PT-BR [here](https://github.com/yanmagale/awesome-flux/blob/master/tcc.pdf) only PT-BR).
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [React and Flux: Building Applications with a Unidirectional Data Flow](https://www.youtube.com/watch?v=i__969noyAM)
 - [The Case for Flux](https://medium.com/swlh/the-case-for-flux-379b7d1982c6#.rboxfy6j0)
 - [Evolving Yahoo Mail](https://yahooeng.tumblr.com/post/101682875656/evolving-yahoo-mail)
-- [A cartoon guide to Flux, by Lin Clark](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.7i5ignsjl)
+- [A cartoon guide to Flux, by Lin Clark](https://medium.com/m/global-identity?redirectUrl=https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
 - [Unidirectional Data Flow? Yes. Flux? I Am Not So Sure](https://medium.com/@AdamRNeary/unidirectional-data-flow-yes-flux-i-am-not-so-sure-b4acf988196c#.twylm4iep)
 
 ### PT-BR
@@ -43,7 +43,6 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 - [O que é MVP e MVVM?](http://pt.stackoverflow.com/questions/21539/o-que-%C3%A9-mvp-e-mvvm/21541)
 - [Model-View-Controller, by Rodrigo Rebouças de Almeida](http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/arqu/mvc/mvc.htm)
-- [What is MVC and what are the advantages of it?](http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/arqu/mvc/mvc.htm)
 - [What is MVC, really?](http://softwareengineering.stackexchange.com/questions/127624/what-is-mvc-really)
 - [What is the difference between MVC and the usual 3-tier architecture and why do developers say the MVC architecture is better?](https://www.quora.com/What-is-the-difference-between-MVC-and-the-usual-3-tier-architecture-and-why-do-developers-say-the-MVC-architecture-is-better)
 - [Understanding Model-View-Controller, by Stefano Borini](https://www.gitbook.com/book/stefanoborini/modelviewcontroller/details)
@@ -58,8 +57,8 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 
 
 ## Redux
-- [Hot reloading and time travel debugging: what are they?, by Lin Clark](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.qcter0lhs)
-- [A cartoon guide to Redux, by Lin Clark](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.cnkq5xn0a)
+- [Hot reloading and time travel debugging: what are they?, by Lin Clark](https://medium.com/m/global-identity?redirectUrl=https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35)
+- [A cartoon guide to Redux, by Lin Clark](https://medium.com/m/global-identity?redirectUrl=https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 - [Awesome Redux, by @brillout](https://github.com/brillout/awesome-redux)
 - [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)
 
