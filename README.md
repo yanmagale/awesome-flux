@@ -2,6 +2,8 @@
 
 > :clipboard: A curated list about Flux's architecture and its implementations.
 
+[![Build Status](https://travis-ci.org/yanmagale/awesome-flux.svg?branch=master)](https://travis-ci.org/yanmagale/awesome-flux)
+
 
 # Motivation
 
@@ -29,7 +31,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [React and Flux: Building Applications with a Unidirectional Data Flow](https://www.youtube.com/watch?v=i__969noyAM)
 - [The Case for Flux](https://medium.com/swlh/the-case-for-flux-379b7d1982c6#.rboxfy6j0)
 - [Evolving Yahoo Mail](https://yahooeng.tumblr.com/post/101682875656/evolving-yahoo-mail)
-- [A cartoon guide to Flux, by Lin Clark](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
+- [A cartoon guide to Flux, by Lin Clark](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.wg7w8ydee)
 - [Unidirectional Data Flow? Yes. Flux? I Am Not So Sure](https://medium.com/@AdamRNeary/unidirectional-data-flow-yes-flux-i-am-not-so-sure-b4acf988196c#.twylm4iep)
 
 ### PT-BR
