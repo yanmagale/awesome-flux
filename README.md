@@ -28,13 +28,17 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?list=PLb0IAmt7-GS188xDYE-u1ShQmFFGbrk0v&v=nYkdrAPrdcw)
 
 ## Flux Architecture
+- [A cartoon guide to Flux, by Lin Clark](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207)
 - [React and Flux: Building Applications with a Unidirectional Data Flow](https://www.youtube.com/watch?v=i__969noyAM)
 - [The Case for Flux](https://medium.com/swlh/the-case-for-flux-379b7d1982c6#.rboxfy6j0)
 - [Evolving Yahoo Mail](https://yahooeng.tumblr.com/post/101682875656/evolving-yahoo-mail)
 - [Unidirectional Data Flow? Yes. Flux? I Am Not So Sure](https://medium.com/@AdamRNeary/unidirectional-data-flow-yes-flux-i-am-not-so-sure-b4acf988196c#.twylm4iep)
+- [Hot reloading and time travel debugging: what are they?, by Lin Clark](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35)
+- [Flux: the React.js Application Architecture — A Comprehensive Study](https://medium.com/@cabot_solutions/flux-the-react-js-application-architecture-a-comprehensive-study-fd2585d06483)
 
 ### PT-BR
 - [Flux: Entenda como funciona a arquitetura Flux com React](https://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/)
+- [Os Estados do Flux: Uma nova arquitetura](http://yanmagalhaes.com.br/por-que-flux/)
 
 
 ## MV* Architectures
@@ -58,6 +62,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 
 
 ## Redux
+- [Awesome Redux, by @xgrommx](https://github.com/xgrommx/awesome-redux)
 - [Awesome Redux, by @brillout](https://github.com/brillout/awesome-redux)
 - [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)
 
