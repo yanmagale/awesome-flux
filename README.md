@@ -34,6 +34,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [Evolving Yahoo Mail](https://yahooeng.tumblr.com/post/101682875656/evolving-yahoo-mail)
 - [Unidirectional Data Flow? Yes. Flux? I Am Not So Sure](https://medium.com/@AdamRNeary/unidirectional-data-flow-yes-flux-i-am-not-so-sure-b4acf988196c#.twylm4iep)
 - [Hot reloading and time travel debugging: what are they?, by Lin Clark](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35)
+- [Flux: the React.js Application Architecture — A Comprehensive Study](https://medium.com/@cabot_solutions/flux-the-react-js-application-architecture-a-comprehensive-study-fd2585d06483)
 
 ### PT-BR
 - [Flux: Entenda como funciona a arquitetura Flux com React](https://tableless.com.br/flux-entenda-como-funciona-arquitetura-flux-com-react/)
