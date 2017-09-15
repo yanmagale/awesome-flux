@@ -2,8 +2,6 @@
 
 > :clipboard: A curated list about Flux's architecture and its implementations.
 
-[![Build Status](https://api.travis-ci.org/yanmagale/awesome-flux.svg?branch=master)](https://travis-ci.org/yanmagale/awesome-flux)
-
 
 # Motivation
 
