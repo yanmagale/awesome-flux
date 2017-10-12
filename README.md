@@ -73,7 +73,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 # Talks
 
 - [Flux and React - Building Applications with a Unidirectional Data Flow, by Bill Fisher](https://speakerdeck.com/fisherwebdev/fluxchat)
-- [Os Estados do Flux (only PT-BR), by Yan Magalhães](http://slides.com/yanmagale/os-estados-do-flux#/)
+- [Os Estados do Flux (only PT-BR), by Yan Magalhães](http://slides.com/yanmagale/os-estados-do-flux#/) Video](https://www.youtube.com/watch?v=efLKjOIxVwM)
 
 
 
