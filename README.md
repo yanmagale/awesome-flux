@@ -63,6 +63,7 @@ Motivation was born while I was writing my bachelor's thesis and couldn't find o
 - [Awesome Redux, by @xgrommx](https://github.com/xgrommx/awesome-redux)
 - [Awesome Redux, by @brillout](https://github.com/brillout/awesome-redux)
 - [Why use Redux over Facebook Flux?](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)
+- [Redux Explained in 30s](https://dev.to/ross/reduxjs-in-30-seconds-5hj)
 
 ## MobX
 - [Ten minute introduction to MobX and React](https://mobx.js.org/getting-started.html)
