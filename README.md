@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" height="auto" src="./img/awesomeflux.png"/>
+</p>
+
 # Awesome Flux
 
 > :clipboard: A curated list about Flux's architecture and its implementations.
