@@ -1,6 +1,6 @@
 
 <center>
-    <img src="./img/awesomeflux.svg"/>
+    <img src="./img/awesomeflux.png"/>
 </center>
 
 # Awesome Flux
