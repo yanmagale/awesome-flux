@@ -1,7 +1,6 @@
-
-<center>
-    <img src="./img/awesomeflux.png"/>
-</center>
+<p align="center">
+    <img width="200" height="auto" src="./img/awesomeflux.png"/>
+</p>
 
 # Awesome Flux
 
