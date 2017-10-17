@@ -1,3 +1,8 @@
+
+<center>
+    <img src="./img/awesomeflux.svg"/>
+</center>
+
 # Awesome Flux
 
 > :clipboard: A curated list about Flux's architecture and its implementations.
